@@ -1,4 +1,5 @@
 Test of github 
 
+Updating with Bash…
+Update with Tortoise…
 
-"Updating with Bash…"
